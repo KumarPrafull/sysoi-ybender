@@ -77,7 +77,7 @@
   <div class="screen">
     <div class="screen__img">
       <img
-        src="uploads/0/685-01_svitla_about_us30ba.jpg?1512298767"
+        src="uploads/img/office-building.jpg"
         alt="YBender - Contact us"
         title=""
       />
