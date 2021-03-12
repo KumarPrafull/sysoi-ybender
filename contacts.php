@@ -95,7 +95,7 @@
           data-mob-anim="group"
           data-mob-anim-stagger="fade-top"
         >
-          YBener is a proven cloud migration and solution provider headquartered in Bengaluru.
+          YBener is a proven cloud migration and solution provider headquartered in Patna and offices in Bangalore and Detroit, MI..
         </h2>
       </div>
       <div class="screen__svg-line">
@@ -406,7 +406,7 @@
           data-mob-anim="group"
           data-mob-anim-stagger="fade-top"
         >
-          BENGALURU OFFICE
+          BANGALORE OFFICE
         </h2>
         <div
           class="blog-1__row col__wrap col__wrap_without-caption"
@@ -419,7 +419,7 @@
             data-mob-anim="group"
             data-mob-anim-stagger="fade-top"
           >
-            <div class="blog-1__text">Indiranagar, Bengaluru, India</div>
+            <div class="blog-1__text">Indiranagar, Bangalore, India</div>
             <a class="blog-1__text" href="tel:+19 9934804915"
               >+91 993 480 4915</a
             ><br />

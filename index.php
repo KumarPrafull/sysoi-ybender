@@ -571,11 +571,11 @@
           <div class="blog-3__item">
             <img class="blog-3__item-icon" src="uploads/img/certificate.svg" alt="ISO certified partner" title="" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
             <h3 class="blog-3__item-title h4" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">ISO 9001:2015 certified partner</h3>
-            <p data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">We take pride that the high level of our management of providing Full lifecycle software development in Corte Madera and Kyiv Head Offices (from design and development to final testing and deployment and support) was recognized by a world-class ISO certification. For us, it is an indication of the ability to meet our customers’ expectations and requirements and deliver strong client satisfaction.</p>
+            <p data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">We take pride that the high level of our management of providing cloud tech development in Patna and Bangalore Offices (from architecture design  to final deployment and support) was recognized by a world-class ISO certification. For us, it is an indication of the ability to meet our customers’ expectations and requirements and deliver strong client satisfaction.</p>
           </div>
           <div class="blog-3__item"><img class="blog-3__item-icon" src="uploads/img/security.svg" alt="SOC 2 Certified Provider" title="" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
-            <h3 class="blog-3__item-title h4" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">SOC 2 Certified Provider</h3>
-            <p data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">We guarantee security of clients’ data and privacy. SOC certificate recognizes our excellence in 5 main trust principles: Security, Availability, Processing Integrity, Confidentiality and Privacy.</p>
+            <h3 class="blog-3__item-title h4" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">Industry Certifications</h3>
+            <p data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">We guarantee security of clients’ data and privacy. Microsoft Azure and Amazon Web Services certificate recognizes our excellence in 5 main trust principles: Security, Availability, Processing Integrity, Confidentiality and Privacy.</p>
           </div>
         </div>
       </div>
