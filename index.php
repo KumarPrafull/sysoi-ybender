@@ -409,7 +409,7 @@
     <div class="half__bg">
       <div class="half__bg-item">
         <div class="half__bg-picture" data-mob-anim="group" data-mob-anim-stagger="fade-top">
-          <img src="uploads/img/John-doe.jpg" alt="Flitfox, John Williams | Testimonial | Y Bender" title="">
+          <img src="uploads/img/john-doe.jpg" alt="Flitfox, John Williams | Testimonial | Y Bender" title="">
         </div>
         <!-- <div class="half__bg-video">
           <video controls playsinline preload="none">
