@@ -1,84 +1,135 @@
-  <header class="header">
-    <div class="header__top">
-      <div class="header__top-bg"></div>
-      <div class="header__mobile-bg"></div>
-      <div class="header__mobile-nav">
-        <div class="header__mobile-nav-scroll"></div>
-      </div>
-      <div class="header__mobile-subnav">
-        <div class="header__mobile-subnav-scroll"></div>
-      </div>
-      <div class="header__container container">
-        <div class="header__logo"><a class="header__logo-icon" href="index.php" aria-label="Home page">
-          <img src="static/img/logo.png" alt="YBender">
+<header class="header">
+  <div class="header__top">
+    <div class="header__top-bg"></div>
+    <div class="header__mobile-bg"></div>
+    <div class="header__mobile-nav">
+      <div class="header__mobile-nav-scroll"></div>
+    </div>
+    <div class="header__mobile-subnav">
+      <div class="header__mobile-subnav-scroll"></div>
+    </div>
+    <div class="header__container container">
+      <div class="header__logo">
+        <a class="header__logo-icon" href="index.php" aria-label="Home page">
+          <img src="static/img/logo.png" alt="YBender" />
           <!-- <svg class="icon" viewbox="0 0 90 30">
-            <path d="M13.9,7.9c-1.1-2-2.6-2.5-4-2.5c-1.6,0-3.3,0.8-3.4,3c-0.1,2.1,2.4,3.1,4.1,3.6c4.4,1.1,9,3.3,8.7,9.8c-0.2,5.7-5.2,8.3-9.7,8.3c-3.2,0-7.3-1.4-9.6-6.9l4.4-2.6c1.4,3,3.7,4.2,5.4,4.2c2.2,0,3.8-1.4,3.8-3.3c0.2-2.7-2.4-3.9-4.4-4.4c-2.9-0.7-8.4-2.7-8.3-8.6C1,2.5,5.6,0,10,0c3.4,0,6.4,1.6,8.2,5.3L13.9,7.9z"></path>
-            <rect x="42.3" y="8.6" width="5.5" height="20.8"></rect>
-            <path d="M60.3,29.4c-4.9,0.9-9.2-1.1-9-6.7V8.6l5.3-5.4v5.4h3.7v4.5h-3.7v9.5c0,1.4,1.4,2.4,3.7,2.1V29.4z"></path>
-            <path d="M70.7,29.4c-4.6,0.8-8.3-0.9-8.3-6.7V0.7h5.5v22.1c0,1.1,0.5,2.3,2.8,2.1V29.4z"></path>
-            <path d="M85,29.4l0-1.8c-1.3,1.6-3.2,2.3-4.8,2.3c-5.3,0-8.1-3.2-8.1-7.2c0-4.7,4.4-7,8.7-7c1.3,0,2.7,0.3,3.8,0.8c-0.1-2.9-1.9-3.9-4-4c-2,0-4.3,0.7-5.5,1.7l-2.1-3.6c2.6-2,5.3-2.5,8.1-2.5c4.6,0,8.9,2.5,8.9,8.5v12.7H85z M84.7,23.8v-3.3c-1-0.4-2.3-0.7-3.5-0.7c-2.1,0-4,0.8-4,2.7C77,26.3,82.6,26,84.7,23.8"></path>
-            <polygon points="34.2,8.6 39.9,8.6 32.9,29.4 26,29.4 19.1,8.6 24.8,8.6 29.5,23.8 "></polygon>
-            <path class="logo-rect" d="M45,0c-3.1,0-5.9,1.3-7.9,3.3l3.8,3.8c1.1-1.1,2.5-1.8,4.2-1.8c1.6,0,3.1,0.7,4.2,1.8L53,3.3C50.9,1.3,48.1,0,45,0"></path>
-          </svg> -->
+          <path d="M13.9,7.9c-1.1-2-2.6-2.5-4-2.5c-1.6,0-3.3,0.8-3.4,3c-0.1,2.1,2.4,3.1,4.1,3.6c4.4,1.1,9,3.3,8.7,9.8c-0.2,5.7-5.2,8.3-9.7,8.3c-3.2,0-7.3-1.4-9.6-6.9l4.4-2.6c1.4,3,3.7,4.2,5.4,4.2c2.2,0,3.8-1.4,3.8-3.3c0.2-2.7-2.4-3.9-4.4-4.4c-2.9-0.7-8.4-2.7-8.3-8.6C1,2.5,5.6,0,10,0c3.4,0,6.4,1.6,8.2,5.3L13.9,7.9z"></path>
+          <rect x="42.3" y="8.6" width="5.5" height="20.8"></rect>
+          <path d="M60.3,29.4c-4.9,0.9-9.2-1.1-9-6.7V8.6l5.3-5.4v5.4h3.7v4.5h-3.7v9.5c0,1.4,1.4,2.4,3.7,2.1V29.4z"></path>
+          <path d="M70.7,29.4c-4.6,0.8-8.3-0.9-8.3-6.7V0.7h5.5v22.1c0,1.1,0.5,2.3,2.8,2.1V29.4z"></path>
+          <path d="M85,29.4l0-1.8c-1.3,1.6-3.2,2.3-4.8,2.3c-5.3,0-8.1-3.2-8.1-7.2c0-4.7,4.4-7,8.7-7c1.3,0,2.7,0.3,3.8,0.8c-0.1-2.9-1.9-3.9-4-4c-2,0-4.3,0.7-5.5,1.7l-2.1-3.6c2.6-2,5.3-2.5,8.1-2.5c4.6,0,8.9,2.5,8.9,8.5v12.7H85z M84.7,23.8v-3.3c-1-0.4-2.3-0.7-3.5-0.7c-2.1,0-4,0.8-4,2.7C77,26.3,82.6,26,84.7,23.8"></path>
+          <polygon points="34.2,8.6 39.9,8.6 32.9,29.4 26,29.4 19.1,8.6 24.8,8.6 29.5,23.8 "></polygon>
+          <path class="logo-rect" d="M45,0c-3.1,0-5.9,1.3-7.9,3.3l3.8,3.8c1.1-1.1,2.5-1.8,4.2-1.8c1.6,0,3.1,0.7,4.2,1.8L53,3.3C50.9,1.3,48.1,0,45,0"></path>
+        </svg> -->
         </a>
-        </div>
-          <div class="header__controls">
-            <nav class="header__nav nav">
-            <ul><li><a href="about.php" data-hover="About us"><span>About us</span></a>
+      </div>
+      <div class="header__controls">
+        <nav class="header__nav nav">
+          <ul>
+            <li>
+              <a href="about.php" data-hover="About us"
+                ><span>About us</span></a
+              >
               <!-- <ul>
-                <li><a href="about/svitla.html" data-hover="YBender"><span>YBender</span></a></li>
-                <li><a href="about/ceo.html" data-hover="CEO"><span>CEO</span></a></li>
-                <li><a href="about/team.html" data-hover="Leadership team"><span>Leadership team</span></a></li>
-                <li><a href="sales.html" data-hover="our sales team"><span>our sales team</span></a></li>
-                <li><a href="about/corporate-social-responsibility.html" data-hover="CSR"><span>CSR</span></a></li>
-                <li><a href="career.html" data-hover="Career"><span>Career</span></a></li>
-              </ul> -->
+              <li><a href="about/svitla.html" data-hover="YBender"><span>YBender</span></a></li>
+              <li><a href="about/ceo.html" data-hover="CEO"><span>CEO</span></a></li>
+              <li><a href="about/team.html" data-hover="Leadership team"><span>Leadership team</span></a></li>
+              <li><a href="sales.html" data-hover="our sales team"><span>our sales team</span></a></li>
+              <li><a href="about/corporate-social-responsibility.html" data-hover="CSR"><span>CSR</span></a></li>
+              <li><a href="career.html" data-hover="Career"><span>Career</span></a></li>
+            </ul> -->
             </li>
-            <li><a href="how-we-work.php" data-hover="How we work" class=""><span>How we work</span></a>
+            <li>
+              <a href="how-we-work.php" data-hover="How we work" class=""
+                ><span>How we work</span></a
+              >
               <!-- <ul>
-                <li><a href="how-we-work/managed-team-extension.html" data-hover="Managed Team Extension"><span>Managed Team Extension</span></a></li>
-                <li><a href="how-we-work/agilesquads.html" data-hover="AgileSquads"><span>AgileSquads</span></a></li>
-                <li><a href="how-we-work/consulting-service.html" data-hover="Professional Services"><span>Professional Services</span></a></li>
-              </ul> -->
+              <li><a href="how-we-work/managed-team-extension.html" data-hover="Managed Team Extension"><span>Managed Team Extension</span></a></li>
+              <li><a href="how-we-work/agilesquads.html" data-hover="AgileSquads"><span>AgileSquads</span></a></li>
+              <li><a href="how-we-work/consulting-service.html" data-hover="Professional Services"><span>Professional Services</span></a></li>
+            </ul> -->
             </li>
-            <li><a href="expertise.php" data-hover="Expertise" class=""><span>Expertise</span></a>
+            <li>
+              <a href="expertise.php" data-hover="Expertise" class=""
+                ><span>Expertise</span></a
+              >
               <!-- <ul data-more-url="/expertise" data-more-text="more" data-hide-index="6">
-                <li><a href="expertise/cloud-solutions.html" data-hover="Cloud Solutions"><span>Cloud Solutions</span></a></li>
-                <li><a href="expertise/web-solutions.html" data-hover="Web Solutions"><span>Web Solutions</span></a></li>
-                <li><a href="expertise/mobile-solutions.html" data-hover="Mobile Solutions"><span>Mobile Solutions</span></a></li>
-                <li><a href="expertise/e-commerce.html" data-hover="E-Commerce"><span>E-Commerce</span></a></li>
-                <li><a href="expertise/big-data.html" data-hover="Big Data"><span>Big Data</span></a></li>
-                <li><a href="expertise/devops-practices.html" data-hover="DevOps Practices"><span>DevOps Practices</span></a></li>
-                <li><a href="expertise/quality-assurance.html" data-hover="Quality Assurance"><span>Quality Assurance</span></a></li>
-              </ul> -->
+              <li><a href="expertise/cloud-solutions.html" data-hover="Cloud Solutions"><span>Cloud Solutions</span></a></li>
+              <li><a href="expertise/web-solutions.html" data-hover="Web Solutions"><span>Web Solutions</span></a></li>
+              <li><a href="expertise/mobile-solutions.html" data-hover="Mobile Solutions"><span>Mobile Solutions</span></a></li>
+              <li><a href="expertise/e-commerce.html" data-hover="E-Commerce"><span>E-Commerce</span></a></li>
+              <li><a href="expertise/big-data.html" data-hover="Big Data"><span>Big Data</span></a></li>
+              <li><a href="expertise/devops-practices.html" data-hover="DevOps Practices"><span>DevOps Practices</span></a></li>
+              <li><a href="expertise/quality-assurance.html" data-hover="Quality Assurance"><span>Quality Assurance</span></a></li>
+            </ul> -->
             </li>
-            <li><a href="portfolio.php" data-hover="Portfolio"><span>Portfolio</span></a>
+            <li>
+              <a href="portfolio.php" data-hover="Portfolio"
+                ><span>Portfolio</span></a
+              >
               <!-- <ul><li><a href="portfolio/testimonials.html" data-hover="Testimonials"><span>Testimonials</span></a></li>
-                <li><a href="portfolio/case-studies.html" data-hover="Case studies"><span>Case studies</span></a></li>
-              </ul> -->
+              <li><a href="portfolio/case-studies.html" data-hover="Case studies"><span>Case studies</span></a></li>
+            </ul> -->
             </li>
-            <li><a class="disabled" href="blog.php" data-hover="Blog"><span>Blog</span></a></li>
-            <li><a class="disabled" href="contact.php" data-hover="Contacts"><span>Contacts</span></a></li>
+            <li>
+              <a class="disabled" href="blog.php" data-hover="Blog"
+                ><span>Blog</span></a
+              >
+            </li>
+            <li>
+              <a class="disabled" href="contacts.php" data-hover="Contacts"
+                ><span>Contacts</span></a
+              >
+            </li>
           </ul>
-          </nav>
-          
-          <div class="header__search-btn">
-            <svg class="icon icon-search2"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search2"></use></svg>
-          </div>
-          <form class="header__form form" action="https://sysoi.com/ybender/search">
-            <div class="form-group">
-              <div class="input-icon"><svg class="icon icon-search2"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search2"></use></svg>
-              </div>
-              <input class="form-input" type="text" id="formSearch" autocomplete="off" name="q" required>
-              <label class="form-input-label" for="formSearch"><span>&nbsp;</span></label>
-            </div>
-            <div class="form-group form-group_submit">
-              <button class="form-submit-search" type="submit" data-hover="search"><span>search</span></button>
-            </div>
-          </form>
-          <div class="header__search-close"><span>Close</span></div>
-          <div class="header__menu"><span>menu</span></div>
+        </nav>
+
+        <div class="header__search-btn">
+          <svg class="icon icon-search2">
+            <use
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              xlink:href="#icon-search2"
+            ></use>
+          </svg>
         </div>
+        <form
+          class="header__form form"
+          action="https://sysoi.com/ybender/search"
+        >
+          <div class="form-group">
+            <div class="input-icon">
+              <svg class="icon icon-search2">
+                <use
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  xlink:href="#icon-search2"
+                ></use>
+              </svg>
+            </div>
+            <input
+              class="form-input"
+              type="text"
+              id="formSearch"
+              autocomplete="off"
+              name="q"
+              required
+            />
+            <label class="form-input-label" for="formSearch"
+              ><span>&nbsp;</span></label
+            >
+          </div>
+          <div class="form-group form-group_submit">
+            <button
+              class="form-submit-search"
+              type="submit"
+              data-hover="search"
+            >
+              <span>search</span>
+            </button>
+          </div>
+        </form>
+        <div class="header__search-close"><span>Close</span></div>
+        <div class="header__menu"><span>menu</span></div>
       </div>
     </div>
-  </header>
+  </div>
+</header>

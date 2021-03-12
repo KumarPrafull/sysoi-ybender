@@ -45,7 +45,7 @@
 <?php include "./_nav.html" ?>
   
 <?php /* include "./_privacy-popup.html" */?>
-<div></div>                
+                
 <!-- Breadcrumbs-->
 <div class="container">
   <ul class="breadcrumbs" data-anim="group">

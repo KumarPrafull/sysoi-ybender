@@ -62,12 +62,12 @@
       <div class="screen__img">
         <img src="uploads/img/home-ybender-hero.jpg" alt="Y Bender - Home Page" title="">
       </div>
-      <div class="screen__video">
+      <!-- <div class="screen__video">
         <video data-lazy-src /uploads/img/home-ybender-hero.jpg loop muted>
         <source data-lazy-src="/uploads/0/687-00_main_page_1024.mp4" src="#" type="video/mp4">
         <source data-lazy-src="/uploads/0/688-00_main_page_webmsd.webm" src="#" type="video/webm">
         </video>
-      </div>
+      </div> -->
       <canvas class="screen__canvas" id="screenCanvas"></canvas>
       <div class="screen__container container">
         <div class="screen__slider">
@@ -268,7 +268,7 @@
             </ul>
           </li>
           
-          <li><h4>Database Migration</h4>
+          <li><h4>Database</h4>
             <ul>
               <li><h5>Mongo DB</h5></li>
               <li><h5>MySQL</h5></li>
@@ -318,9 +318,9 @@
 
         <div class="slider__item">
           <div class="slider__item-text">
-            <div class="slider__item-text-title" data-anim-stagger="fade-top">Analytics Platform</div>
+            <div class="slider__item-text-title" data-anim-stagger="fade-top">BlueGene Analytics</div>
             <div class="slider__item-text-paragraph" data-anim-stagger="fade-top">
-              <p>The company is a pioneer in IoT and social data management, Big Data integration, and advanced analytics.</p>
+              <p>Journey of Market research company to become pioneer in social data management, and advanced analytics.</p>
             </div>
             <div class="slider__item-text-link" data-anim-stagger="fade-top">
               <a class="link-white js-link-multiple-circle" href="#" data-hover="read case"><span>read case</span></a>
@@ -331,8 +331,9 @@
 
         <div class="slider__item">
           <div class="slider__item-text">
-            <div class="slider__item-text-title" data-anim-stagger="fade-top">Biotechnological Company</div>
-            <div class="slider__item-text-paragraph" data-anim-stagger="fade-top"><p>Our client is an American biotechnological company that is a pioneer in microarray technology and a leader in genomics analysis.</p></div>
+            <div class="slider__item-text-title" data-anim-stagger="fade-top">Vaccine Test Data</div>
+            <div class="slider__item-text-paragraph" data-anim-stagger="fade-top">
+              <p>Our client is a leading global vaccine manufacturer and is now a pioneer in microarray and genomics analysis.</p></div>
             <div class="slider__item-text-link" data-anim-stagger="fade-top"><a class="link-white js-link-multiple-circle" href="#" data-hover="read case"><span>read case</span></a></div>
           </div>
           <div class="slider__item-img"><img src="uploads/img/index-biotechnology.jpg" alt=""></div>
