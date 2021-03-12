@@ -409,14 +409,14 @@
     <div class="half__bg">
       <div class="half__bg-item">
         <div class="half__bg-picture" data-mob-anim="group" data-mob-anim-stagger="fade-top">
-          <img src="uploads/img/john-doe.jpg" alt="Flitfox, John Doe | Testimonial | Y Bender" title="">
+          <img src="uploads/img/John-doe.jpg" alt="Flitfox, John Williams | Testimonial | Y Bender" title="">
         </div>
-        <div class="half__bg-video">
+        <!-- <div class="half__bg-video">
           <video controls playsinline preload="none">
-            <source src="#" data-load-src="/uploads/vid/john-doe-flitfox.mp4" type="video/mp4">
-            <source src="#" data-load-src="/uploads/vid/john-doe-flitfox.webm" type="video/webm">
+            <source src="#" data-load-src="/uploads/vid/kunal-shah.mp4" type="video/mp4">
+            <source src="#" data-load-src="/uploads/vid/kunal-shah.webm" type="video/webm">
           </video>
-        </div>
+        </div> -->
       </div>
 
       <!-- <div class="half__bg-item">
@@ -476,10 +476,10 @@
       <div class="half__item">
         <h2 class="half__title h1" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">Flitfox</h2>
         <div class="half__text" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
-          <p>Flitfox opted Y Bender as its cloud management partner partly because the two companies share similar values. YBender is delivering exceptional value to Flitfox, providing a large development team closely integrated into Inflection’s development process.</p>
+          <p>Flitfox opted YBender as its cloud security partner because they found our tailor made cloud solution best fit to their needs. YBender is delivering exceptional value to Flitfox, providing a cloud development team closely integrated into Flitfox’s development process.</p>
         </div>
-        <div class="half__title half__title_white h1" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">John Doe</div>
-        <div class="half__subtitle half__subtitle_white h6" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">CEO, Flitfox</div>
+        <div class="half__title half__title_white h1" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">John Williams</div>
+        <div class="half__subtitle half__subtitle_white h6" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">Cloud Sec Architect, Flitfox</div>
       </div>
 
       <!-- <div class="half__item">
@@ -544,7 +544,7 @@
             CEO and Co-Founder
           </div>
           <div class="half__text" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
-            <p>The three core principles of YBender are: bring superb value to clients, be a people-oriented company where our people grow professionally and remain for many years, and constantly seek to innovate and capture new technologies. We strive for and deliver excellence in all we do, and client satisfaction is the ultimate measurement tool of our success.</p>
+            <p>We are a client oriented cloud solution provider company, here, at YBender we measure our success based on client satisfaction through value delivery. Innovation and new age technological adaptation has built our team a pioneer in this 360 degree cloud solution domain. We as an organization, believe in continuous professional growth of our people and strive for excellence.</p>
           </div>
           <div class="half__link" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
             <a class="link-dark js-link-multiple-circle" href="#" data-hover="Watch our CEO sharing his values and experience"><span>Watch our CEO sharing his values and experience</span></a>
@@ -563,8 +563,9 @@
       <div class="blog-3__row">
         <div class="blog-3__col">
           <div class="blog-3__item-main">
-            <h2 class="blog-3__item-main-title h1" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">Our main value - to deliver the best</h2>
-            <p data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">Over the years, we have grown our talented team of engineers, and managers to deliver on our goals, tapping into new technologies and working with cutting-edge solutions. We are proud of the awards and certificates we have received for our work, as well as being invited to and organizing our own industry events.</p>
+            <h2 class="blog-3__item-main-title h1" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">Innovation and Value Chain at YBender</h2>
+            <p data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
+            Main goal of YBender is to achieve excellence through innovations and values delivery. Our highly skilled team of engineers are capable of delivering large scale project well within you time and resource constraints. We have been working with fortune 500 companies, universities, start-ups and small/medium businesses.</p> 
           </div>
         </div>
         <div class="blog-3__col">
