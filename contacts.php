@@ -1,11 +1,5 @@
 <!doctype html><html lang="en">
-
-<!-- Mirrored from svitla.com/contacts by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 28 Feb 2021 14:31:50 GMT -->
-
-<!-- Added by HTTrack -->
-
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<!-- /Added by HTTrack -->
 <head>
   <meta charset="UTF-8">
   <meta name="format-detection" content="telephone=no">
@@ -724,6 +718,4 @@ jQuery('#w0').yiiActiveForm([{"id":"ctaformtype5-name","name":"name","container"
 <!--   -->
 
 </body>
-
-<!-- Mirrored from svitla.com/contacts by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 28 Feb 2021 14:31:54 GMT -->
 </html>
