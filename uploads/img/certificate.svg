@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 width="51.2px" height="51.5px" viewBox="0 0 51.2 51.5" fill="#00cbd5" style="enable-background:new 0 0 51.2 51.5;" xml:space="preserve">
+<g>
+	<path d="M33,41.1H0v-41h33V41.1z M1,40.1h31v-39H1V40.1z"/>
+</g>
+<g>
+	<path d="M33.8,51.1L3.9,37.2L21.3,0l29.9,13.9L33.8,51.1z M5.3,36.7l28.1,13.1l16.5-35.4L21.7,1.3L5.3,36.7z"/>
+</g>
+<g>
+	<circle cx="29.6" cy="40.9" r="4.4"/>
+</g>
+<g>
+	<polygon points="26.1,42 22.4,49.1 26,48.3 27.2,51.5 30.8,44.4 	"/>
+</g>
+<g>
+	<rect x="28.5" y="13" transform="matrix(0.4224 -0.9064 0.9064 0.4224 -3.6815 39.2685)" width="1" height="19"/>
+</g>
+<g>
+	<rect x="30.4" y="8.7" transform="matrix(0.4224 -0.9064 0.9064 0.4224 1.3421 38.4977)" width="1" height="19"/>
+</g>
+<g>
+	<rect x="26.5" y="17" transform="matrix(0.4224 -0.9064 0.9064 0.4224 -8.4626 39.7662)" width="1" height="19"/>
+</g>
+<g>
+	<rect x="21" y="23.2" transform="matrix(0.4223 -0.9064 0.9064 0.4223 -13.7801 36.1991)" width="1" height="11.4"/>
+</g>
+</svg>
