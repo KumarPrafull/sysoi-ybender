@@ -168,7 +168,7 @@
       <h3 class="expertise__subtitle" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">We deliver expertise for industries</h3>
       <div class="expertise__text" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
         <div data-mob-anim="group" data-mob-anim-stagger="fade-top">
-          <p>YBender is your conduit to the cutting-edge technological innovations within emerging industries, from Web and Mobile to Big Data to Internet of Things.</p><p>Our development process revolves entirely around your needs. If you want custom software products, systems, solutions, and services that improve the way you do business, stop searching. We approach every project &ndash; big or small &ndash; with the same level of care and professionalism. And we work alongside you every step of the way.</p>
+          <p>YBender is your conduit to digital transformation and technological innovation journey, from Web and Mobile to Big Data to Internet of Things.</p><p>Our cloud solution are tailored entirely around your business needs. If you want custom cloud migration, cloud development and cloud security solution that improve the way you do business, stop searching. We approach every project &ndash; big or small &ndash; with the same level of care and professionalism. And we work alongside you every step of the way.</p>
         </div>
       </div>
       <div class="expertise__link" data-anim-stagger="fade-top" data-mob-anim="group" data-mob-anim-stagger="fade-top">
